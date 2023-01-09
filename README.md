@@ -1,4 +1,5 @@
 # TheQGoogler
+A simple (proof of concept) bot written in Node.js to automatically search the internet (Google and Bing) for Trivia answers from TheQ (https://www.theq.live/solutions/game-shows) in real-time
 
 Packages: 
 - eventsource
